@@ -23,6 +23,9 @@
 ### Notes 
 - [Obsidian](https://obsidian.md/)
   
+## Project Management
+- [Trello](https://trello.com/)
+- [Github Projects](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects)
   
 ### Environments
 - [Docker Hub](https://hub.docker.com/)
@@ -33,3 +36,5 @@ container technologies - such as Docker - allow a great deal of flexibility in t
 - [Postgres](https://www.postgresql.org/)
 - [MongoDB](https://www.mongodb.com/)
 - [Microsoft SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads?msockid=2fb3ba59f8f866753c4faeeff94f6727)
+- [pgAdmin](https://www.pgadmin.org/)
+- [DBeaver](https://dbeaver.io/)
