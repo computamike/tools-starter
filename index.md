@@ -11,11 +11,19 @@
 - [GitKraken](https://www.gitkraken.com/)
 
 ### Web Tools
+- [Bruno](https://www.usebruno.com/)
+- [ThunderClient](https://www.thunderclient.com/)
+- [Http Toolkit](https://httptoolkit.com/)
 
 ### Testing
+- [Stryker](https://stryker-mutator.io/)
+- [NUnit](https://nunit.org/)
+- [JUnit](https://junit.org/)
 
 ### Notes 
-
+- [Obsidian](https://obsidian.md/)
+  
+  
 ### Environments
 - [Docker Hub](https://hub.docker.com/)
 - [Docker Desktop](https://www.docker.com/products/docker-desktop/)
